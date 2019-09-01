@@ -1,3 +1,82 @@
 body{
     background-color: lightgreen;
 }
+
+#heading{
+    text-align: center;
+}
+
+#cat{
+    background-color: red;
+    border-radius: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 50px;
+}
+
+#dog{
+    background-color: yellow;
+    border-radius: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 50px;
+}
+
+#chameleon{
+    background-color: green;
+    border-radius: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 50px;
+}
+
+#all{
+    background-color: lightgray;
+    border-radius: 3px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 50px;
+}
+
+#animal-buttons{
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    border: solid 3px black;
+    border-radius: 25%;
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+}
+
+.animalName {
+    background-color: darkgreen;
+    height: 25px;
+}
+
+.animalType {
+    background-color: lightyellow;
+    height: 25px;
+
+}
+
+.petList {
+    border: solid 4px black;
+    border-radius: 12%;
+    text-align: center;
+    width: 400px;
+    background-color: rgb(62, 163, 87);
+    margin: 10px;
+    overflow: hidden;
+}
+
+p {
+    text-align: center;
+    font: arial;
+    font-weight: bold;
+    margin: 4px 0px;
+}
+
+#petList {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
