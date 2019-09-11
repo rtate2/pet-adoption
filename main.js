@@ -102,6 +102,7 @@ const filterAnimals = (e) => {
             // if statement is true add animal to the correct value
             animals.push(pets[i]);
         }
+
     }
     // calling the function and passing the animals array to run
     buildCard(animals);
