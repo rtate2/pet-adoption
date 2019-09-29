@@ -4,7 +4,7 @@
 Use this application to filter pets through three categories of animals.
 
 ## Screenshots
-![Pet Adoption Preview]()
+![Pet Adoption Preview](https://raw.githubusercontent.com/rtate2/pet-adoption/master/screenshots/Screen%20Shot%202019-09-29%20at%203.12.25%20PM.png)
 
 ## How to run
 * Clone down this project
